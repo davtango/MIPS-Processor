@@ -5,7 +5,7 @@ The textbook "Digital Design and Computer Architecture" by David Money Harris &a
 
 My goal for this project is to implement both their presented multi-cycled and pipelined processor designs in SystemVerilog and produce test benches to verify their functionality.
 
-In this folder there will be three folders for each micro-architecture: Single-cycled, Multi-cycled, and Pipelined. The single-cycled folder will contain mostly reference HDL code from the textbook which I will use as a starting point. 
+In this repository there will be three folders for each micro-architecture: Single-cycled, Multi-cycled, and Pipelined. The single-cycled folder will contain mostly reference HDL code from the textbook which I will use as a starting point. 
 
 
 
